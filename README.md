@@ -5,14 +5,20 @@
 
 ## 🚀 About Me
 
-I'm a passionate Ruby on Rails developer who loves building modern, reactive web applications. I specialize in Hotwire (Turbo & Stimulus) and have experience across the full stack.
+I am a Full Stack Developer with over a decade of experience, specializing in building and scaling efficient applications within the Ruby on Rails ecosystem.
 
-- 🔥 **Currently working with:** Ruby on Rails, Hotwire, Stimulus, Turbo
-- 🎯 **Love building:** Real-time, reactive applications without heavy JavaScript frameworks
-- 🌱 **Always learning:** Currently exploring advanced Hotwire patterns, AWS, Azure (currently preparing for certification)
-- ⚡ **Previously worked with:** With stacks considered new for me: React, VueJS, Elixir. The learning curve was easier then I expected.
-- At this moment studying: AWS, Azure, Docker, Kubernetes, because my last job I worked with a Product that provide services like historical data expensives, offering optimizations as main feature.
-So I got interested in learning more about DevOps and Cloud.
+My **[full professional resume (CV)](RESUME.md)** details my journey:
+* Serving as a **foundational engineer at Clicksign**, helping grow the product from its inception to a company of over 200.
+* Leading a **legacy frontend migration to Hotwire** at Prosas, optimizing performance and maintainability.
+* Building complex **Stripe and Shopify API integrations** at SmartrMail.
+* Working across diverse stacks, including **Elixir/Phoenix** and **Vue.js**, to solve unique business challenges.
+
+My recent work on a cloud-cost optimization platform sparked a deep interest in the infrastructure that powers our applications. This has led me to my current focus:
+
+1.  **Cloud Infrastructure:** I am actively studying for my **AWS certification**, diving deep into the DevOps (AWS, Azure, Docker, Kubernetes) world to bridge the gap between development and operations.
+2.  **Open-Source & Hotwire:** I am a strong believer in the modern, reactive Rails stack. As you can see from my GitHub activity, I am passionate about Hotwire (Turbo & Stimulus) and am focusing on contributing to open-source projects.
+
+---
 
 ## 💻 Tech Stack
 
@@ -38,6 +44,8 @@ So I got interested in learning more about DevOps and Cloud.
 [![Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -49,12 +57,14 @@ So I got interested in learning more about DevOps and Cloud.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagnerpereira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-rosa-ruby-on-rails-developer/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpr@fastmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fagnerfpr@gmail.com)
 
 </div>
 
@@ -63,4 +73,3 @@ So I got interested in learning more about DevOps and Cloud.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fagnerpereira&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
-
