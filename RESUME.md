@@ -1,6 +1,6 @@
 # Fagner Rosa - Professional Resume
 
-**[< Back to Main Profile](README.md)**
+**[< Back to Main Profile](PROFILE.md)**
 
 **Ruby on Rails Developer | Hotwire | ReactJS | RSpec | Sidekiq | GraphQL**
 <br>
